@@ -1,12 +1,12 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=FF3BA2&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=Hi+name+is+Badma;I+am+a+Frontend+-+developer)](https://github.com/badmaArs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=54387F&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=Hi+name+is+Badma;I+am+a+Frontend+-+developer)](https://github.com/badmaArs)
 
 <hr>
 
 <br>
 
-[![Badma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=badmaArs&hide_border=true&theme=redical)](https://github.com/badmaArs)
+[![Badma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=badmaArs&hide_border=true&theme=nightowl)](https://github.com/badmaArs)
 
 </div>
 
@@ -50,6 +50,6 @@
 
 <div align="center">
 
-[![badmaArs github stats](https://github-readme-stats.vercel.app/api/?username=badmaArs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/badmaArs)
+[![badmaArs github stats](https://github-readme-stats.vercel.app/api/?username=badmaArs&show_icons=true&theme=nightowl&include_all_commits=true)](https://github.com/badmaArs)
 
 </div>
