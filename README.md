@@ -50,6 +50,6 @@
 
 <div align="center">
 
-[![badmaArs github stats](https://github-readme-stats.vercel.app/api/?username=Badma&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/badmaArs)
+[![badmaArs github stats](https://github-readme-stats.vercel.app/api/?username=badmaArs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/badmaArs)
 
 </div>
