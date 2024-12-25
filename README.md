@@ -50,10 +50,6 @@
 
 <div align="center">
 
-[![badmaArs github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Badma&theme=radical&langs_count=20&layout=compact&exclude_langs=swift)](https://github.com/badmaArs)
-
-<hr>
-
-[![badmaArs github stats](https://github-readme-stats.vercel.app/api/?username=Badma&show_icons=true&theme=radical)](https://github.com/badmaArs)
+[![badmaArs github stats](https://github-readme-stats.vercel.app/api/?username=Badma&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/badmaArs)
 
 </div>
