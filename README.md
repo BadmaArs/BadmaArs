@@ -45,3 +45,15 @@
 [![tailwind](https://img.shields.io/badge/tailwind-20232A?style=for-the-badge&logo=tailwind)](https://tailwindcss.com/)
 
 </div>
+
+<hr>
+
+<div align="center">
+
+[![badmaArs github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Badma&theme=radical&langs_count=20&layout=compact)](https://github.com/badmaArs)
+
+<hr>
+
+[![badmaArs github stats](https://github-readme-stats.vercel.app/api/?username=Badma&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/badmaArs)
+
+</div>
