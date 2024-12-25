@@ -42,5 +42,6 @@
 [![ThreeJS](https://img.shields.io/badge/ThreeJS-20232A?style=for-the-badge&logo=threejs)](https://threejs.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-20232A?style=for-the-badge&logo=gsap)](https://gsap.com/)
 [![strapi](https://img.shields.io/badge/strapi-20232A?style=for-the-badge&logo=strapi)](https://strapi.io/)
+[![tailwind](https://img.shields.io/badge/tailwind-20232A?style=for-the-badge&logo=tailwind)](https://tailwindcss.com/)
 
 </div>
