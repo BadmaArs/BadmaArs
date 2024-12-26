@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=54387F&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=Hi+name+is+Badma;I+am+a+Frontend+-+developer)](https://github.com/badmaArs)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=60&duration=4000&color=54387F&center=true&vCenter=true&multiline=true&width=2000&height=400&lines=My+name+is+Badma;I+am+a+Frontend+-+developer)](https://github.com/badmaArs)
 
 <hr>
 
